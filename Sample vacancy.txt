@@ -1,0 +1,17 @@
+React Developer, IT Services
+
+Technology stack
+AWS, AWS EKS, RDS (PostgreSQL), React Native, Nest.js, GraphQL/Apollo, Redis
+
+Responsibilities
+Develop and deliver product features in accordance with communicated requirements (both functional and non-functional)
+Work across both technical and business-focused team members to deliver value to the users
+Review the pull request of other team members
+
+Requirements
+4+ years of experience with React
+Solid knowledge of JavaScript (ES5, ES6)
+Solid knowledge of TypeScript
+Skilled in and enthusiastic about React.js and React Native
+A great communicator and team player
+Good spoken English
